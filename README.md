@@ -3,43 +3,6 @@
 
 <h1 align="center">🎨 # SanrioScan – Sanrio Character Image Classification System</h1>
 
-<p align="center">
-  <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/flutter.yml?branch=master" alt="Build Status" />
-  </a>
-
-  
-  <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/stargazers">
-    <img src="https://img.shields.io/github/stars/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject?style=social" alt="Stars" />
-  </a>
-
-  
-  <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/network">
-    <img src="https://img.shields.io/github/forks/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject?style=social" alt="Forks" />
-  </a>
-
-  
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject" alt="License" />
-  </a>
-
-  
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-v3.13-blue" alt="Flutter" />
-  </a>
-
-  
-  <a href="https://www.tensorflow.org/lite">
-    <img src="https://img.shields.io/badge/TFLite-2.14-orange" alt="TensorFlow Lite" />
-  </a>
-
-  
-  <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/commits/master">
-    <img src="https://img.shields.io/github/last-commit/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/master" alt="Last Commit" />
-  </a>
-
-  
-</p>
 
 
 ---
@@ -255,7 +218,9 @@ Caraga State University – Cabadbaran Campus
 
 Final Project • December 2025
 
+
 ✨ Thank you for exploring **SanrioScan**!
+
 🎨 Classifying Sanrio characters with AI, one image at a time.
 
 
