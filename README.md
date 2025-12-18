@@ -1,9 +1,11 @@
 
 <!-- 🌸 SanrioScan GitHub README 🌸 -->
 
-<h1 align="center">🎨 # SanrioScan – Sanrio Character Image Classification System</h1>
+<h1 align="center">🎨 SanrioScan – Sanrio Character Image Classification System</h1>
 
-
+<p align="center">
+  A **cute, minimal, and scanner mobile app** that can **classify Sanrio characters** from **camera captures or gallery images** in real-time using **TensorFlow Lite** and **Flutter**.
+</p>
 
 ---
 
@@ -11,7 +13,6 @@
 
 SanrioScan is a **machine learning-powered mobile app** built with Flutter that classifies popular Sanrio characters using **camera captures or gallery uploads**.  
 It demonstrates a **complete end-to-end ML pipeline**, from **data preprocessing**, **model training**, and **evaluation**, to **mobile deployment** using TensorFlow Lite for real-time inference.
-
 
 
 ---
@@ -196,7 +197,7 @@ Input (224×224×3)
 
 ---
 
-## 🎓 Educational Value
+# 🎓 Educational Value
 
 * Complete ML pipeline implementation
 * CNN training & evaluation
@@ -211,16 +212,13 @@ Input (224×224×3)
 # 👤 Author
 
 **J-Ann Mayel Sadagnot Estrella**
-
 BS Information Technology (BSIT)
-
 Caraga State University – Cabadbaran Campus
-
 Final Project • December 2025
 
+---
 
 ✨ Thank you for exploring **SanrioScan**!
-
 🎨 Classifying Sanrio characters with AI, one image at a time.
 
 
