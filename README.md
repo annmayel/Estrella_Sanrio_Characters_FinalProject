@@ -2,7 +2,7 @@
 <!-- 🌸 SanrioScan GitHub README 🌸 -->
 
 <h1 align="center">˖° 𐙚 ₊ ⊹ ♡   SanrioSukyan – Sanrio Character Image Classification System˚✿˖°₊ ⊹ ♡</h1> 
-<h2 align="center">──୨ৎ────𝓱𝓮𝓵𝓵𝓸 𝓴𝓲𝓽𝓽𝔂────୨ৎ───૮・ﻌ・ა────୨ৎ────୨ৎ──(◣ _ ◢)──୨ৎ──</h2>
+<h2 align="center">──୨ৎ──𝓱𝓮𝓵𝓵𝓸 𝓴𝓲𝓽𝓽𝔂───୨ৎ───૮・ﻌ・ა────୨ৎ───୨ৎ──(◣ _ ◢)──୨ৎ──</h2>
                               
 <p align="center">
 A cute, minimal, and scanner mobile app that can classify <strong>Sanrio characters</> from 
