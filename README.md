@@ -4,7 +4,7 @@
 <h1 align="center">🎨 SanrioScan – Sanrio Character Image Classification System</h1>
 
 <p align="center">
-A cute, minimal, and scanner mobile app that can classify **Sanrio characters** from **camera captures** or **gallery images** in real-time using <strong>TensorFlow Lite</strong> and <strong>Flutter</strong> ✨
+A cute, minimal, and scanner mobile app that can classify Sanrio characters from camera captures or  gallery images in real-time using <strong>TensorFlow Lite</strong> and <strong>Flutter</strong> ✨
 </p>
 
 ---
