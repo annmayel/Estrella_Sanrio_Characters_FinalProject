@@ -1,38 +1,55 @@
 
 <!-- 🌸 SanrioScan GitHub README 🌸 -->
 
-<h1 align="center">🎨 SanrioScan – Sanrio Character Image Classification System</h1>
+<h1 align="center">🎨 # SanrioScan – Sanrio Character Image Classification System</h1>
 
 <p align="center">
   <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/flutter.yml?branch=master" alt="Build Status" />
   </a>
+
+  
   <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/stargazers">
     <img src="https://img.shields.io/github/stars/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject?style=social" alt="Stars" />
   </a>
+
+  
   <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/network">
     <img src="https://img.shields.io/github/forks/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject?style=social" alt="Forks" />
   </a>
+
+  
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject" alt="License" />
   </a>
+
+  
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter-v3.13-blue" alt="Flutter" />
   </a>
+
+  
   <a href="https://www.tensorflow.org/lite">
     <img src="https://img.shields.io/badge/TFLite-2.14-orange" alt="TensorFlow Lite" />
   </a>
+
+  
   <a href="https://github.com/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/commits/master">
     <img src="https://img.shields.io/github/last-commit/J-AnnMayel/Estrella_Sanrio_Characters_FinalProject/master" alt="Last Commit" />
   </a>
+
+  
 </p>
+
 
 ---
 
-## 📋 Overview
+# 📋 Overview
 
 SanrioScan is a **machine learning-powered mobile app** built with Flutter that classifies popular Sanrio characters using **camera captures or gallery uploads**.  
 It demonstrates a **complete end-to-end ML pipeline**, from **data preprocessing**, **model training**, and **evaluation**, to **mobile deployment** using TensorFlow Lite for real-time inference.
+
+
 
 ---
 
@@ -46,9 +63,11 @@ It demonstrates a **complete end-to-end ML pipeline**, from **data preprocessing
 - **Accuracy Target:** 90%+  
 - **Deployment:** Mobile-optimized with TensorFlow Lite  
 
+
+
 ---
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 
 - Accurately classify popular Sanrio characters  
 - Implement a complete ML workflow in a mobile context  
@@ -57,9 +76,11 @@ It demonstrates a **complete end-to-end ML pipeline**, from **data preprocessing
 - Visualize confidence scores and analytics  
 - Demonstrate practical ML + Flutter development skills  
 
+
+
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 | Component        | Technology                  |
 |-----------------|-----------------------------|
@@ -72,9 +93,11 @@ It demonstrates a **complete end-to-end ML pipeline**, from **data preprocessing
 | Local Storage    | SharedPreferences           |
 | IDE              | VS Code / Android Studio    |
 
+
+
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 Estrella_Sanrio_Characters_FinalProject/
@@ -123,6 +146,8 @@ Estrella_Sanrio_Characters_FinalProject/
 
 ---
 
+
+
 ## 📊 Dataset Information
 
 | Character         | Samples |
@@ -143,7 +168,7 @@ Estrella_Sanrio_Characters_FinalProject/
 
 ---
 
-## 🐾 Character Descriptions & History
+# 🐾 Character Descriptions & History
 
 | Character         | Description                                                           | Encoded Label |
 | ----------------- | --------------------------------------------------------------------- | ------------- |
@@ -158,9 +183,11 @@ Estrella_Sanrio_Characters_FinalProject/
 
 > `Encoded Label` = numeric label for model training.
 
+
+
 ---
 
-## 🧠 CNN Architecture
+# 🧠 CNN Architecture
 
 Input (224×224×3)
 ↓ Conv2D (32) + ReLU + BatchNorm
@@ -174,9 +201,11 @@ Input (224×224×3)
 ↓ Dense (128) + ReLU + Dropout(0.3)
 ↓ Softmax Output (8 Classes)
 
+
+
 ---
 
-## 📈 Performance Metrics
+# 📈 Performance Metrics
 
 | Metric              | Result      |
 | ------------------- | ----------- |
@@ -190,7 +219,7 @@ Input (224×224×3)
 
 ---
 
-## 📱 App Features
+# 📱 App Features
 
 * 📷 Real-time camera classification
 * 🖼️ Gallery image selection
@@ -199,6 +228,8 @@ Input (224×224×3)
 * 💾 Local classification history
 * ☁️ Firebase Firestore integration
 * 🎨 Material Design 3 UI
+
+
 
 ---
 
@@ -210,13 +241,18 @@ Input (224×224×3)
 * Flutter cross-platform development
 * Real-world Sanrio character recognition
 
+
+
 ---
 
-## 👤 Author
+# 👤 Author
 
 **J-Ann Mayel Sadagnot Estrella**
+
 BS Information Technology (BSIT)
+
 Caraga State University – Cabadbaran Campus
+
 Final Project • December 2025
 
 ✨ Thank you for exploring **SanrioScan**!
