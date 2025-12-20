@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "444432984710",
+    "firebase_url": "https://estrella-sanriocharacter-d7b38-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "estrella-sanriocharacter-d7b38",
+    "storage_bucket": "estrella-sanriocharacter-d7b38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444432984710:android:454c6e02d78a23e3d43f07",
+        "android_client_info": {
+          "package_name": "com.example.sanrio_characters_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3YBSu2BQWEopqo3QgDL07LiaDHaeeqKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
