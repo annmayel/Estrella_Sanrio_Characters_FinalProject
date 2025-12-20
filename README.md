@@ -2,7 +2,7 @@
 <h2 align="center">──୨ৎ──𝓱𝓮𝓵𝓵𝓸 𝓴𝓲𝓽𝓽𝔂───୨ৎ──૮・ﻌ・ა──୨ৎ───୨ৎ──(◣ _ ◢)──୨ৎ──</h2>
 
 <p align="center">
- A cute, minimal, and scanner mobile app that can classify <strong>Sanrio characters</strong><br>
+A cute, minimal, and scanner mobile app that can classify <strong>Sanrio characters</strong><br>
 from camera captures or gallery images in real-time using  
 <strong>TensorFlow Lite</strong> and <strong>Flutter</strong> ✨
 </p>
